@@ -26,7 +26,7 @@ To learn basic concepts of passkeys, check out [Passwordless login with passkeys
 
 {% endAside %}
 
-A passkey has to be created, associated with a user account and have its public key be stored on your server before a user can sign in with it.
+This article covers only the frontend part of passkey and WebAuthn usage: the creation of the passkey, association of the passkey with a user account and storage of the public key on your server. This article does not cover implementation of the backend on your server. All of these parts are all required before a user can sign in with it.
 
 ## How it works
 

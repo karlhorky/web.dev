@@ -115,7 +115,7 @@
     "web-vitals": "^3.1.1",
     "webdev-infra": "1.0.54",
     "yaml-front-matter": "^4.0.0",
-    "@mdn/browser-compat-data": "5.2.57"
+    "@mdn/browser-compat-data": "5.3.8"
   },
   "devDependencies": {
     "@actions/core": "^1.9.1",
